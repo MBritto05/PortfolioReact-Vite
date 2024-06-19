@@ -1,0 +1,31 @@
+.card{
+display: grid;
+grid-auto-flow: column;
+margin: 10px;
+
+
+ 
+}
+
+.card img{
+width: 500px;
+height: 250px;
+border-radius: 6px;
+}
+
+.card section{
+    background-color: transparent;
+    border: 2px solid rgb(139, 97, 216);   
+    padding: 20px;
+    border-top-left-radius: 40px; 
+    border-bottom-right-radius: 40px; 
+    width:500px;
+    box-shadow: 0 0 10px 0 rgba(255, 255, 255, 1);
+    margin-left: 25px;
+    
+}
+
+.card h3{
+    font-size: 25px;
+}
+

@@ -1,0 +1,36 @@
+.navbar{
+    display: flex;
+   justify-content: space-between;;
+    margin-top: 0px;
+}
+
+
+
+.navbar ul{
+    display: flex;
+    list-style: none;
+ align-items: center;
+ 
+}
+.navbar ul:first-child{
+    margin-left: 220px;
+  
+ }
+ .navbar ul:last-child{
+    margin-left: 400px;
+  
+ }
+
+.navbar li{
+    margin: 10px;
+
+ 
+}
+
+.navbar a{
+   color: aliceblue !important;
+    
+ 
+}
+
+

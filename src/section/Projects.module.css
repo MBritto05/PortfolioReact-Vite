@@ -1,0 +1,13 @@
+.projects {
+    text-align: justify;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    grid-auto-rows: minmax(200px, 1fr); /* Ou grid-template-rows: repeat(2, 200px); */
+  }
+  
+.h1 {
+    text-align: justify;
+    font-size: 45px;
+    margin-left: 75px;
+  }

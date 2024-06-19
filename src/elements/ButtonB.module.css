@@ -1,0 +1,22 @@
+.btn button{
+    font-family: 'Poppins';
+    background-image: linear-gradient(to right, #13ADC7 0%, #6978D1 51%, #945DD6 100%);
+    color: aliceblue;
+    border: none;
+    border-radius: 85px;
+    padding: 10px;
+    width: 180px;
+    height: 50px;
+    font-weight: bolder;
+    margin-top: 15px;
+    cursor:pointer;
+    margin-top: 15px;
+    
+}
+
+.btn button:hover{
+    color: aliceblue;
+    background-color: #010b28;
+    transition-duration: 0.5s;
+    transform: translateY(-7px);
+}

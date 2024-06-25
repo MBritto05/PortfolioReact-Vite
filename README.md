@@ -12,4 +12,4 @@
 Foi utilizado HTML, CSS, JS e REACT + VITE .
 
 
-- A branch Mainé a branch principal do projeto e contem todas as alterações. a version-1 contem uma versão anterior! 
+- A branch Main é a branch principal do projeto e contem todas as alterações. A version-1 contém uma versão anterior! 

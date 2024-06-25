@@ -15,7 +15,7 @@ export default function Footer() {
             </div>
             <div className={styles.interno2}>
                 <ul>
-                    <li><a  target="_blank" href="https://github.com/AirtonOliveiraS" aria-label="Link do Github"><FaGithub size={40}/></a></li>
+                    <li><a id="git" target="_blank" href="https://github.com/AirtonOliveiraS" aria-label="Link do Github"><FaGithub size={40}/></a></li>
                     <li><a  target="_blank" href="https://www.linkedin.com/in/airton-dos-santos-/" aria-label="Link do meu linkdin"><FaLinkedin size={40}/></a></li>
                     <li>
                         <a 

@@ -10,7 +10,7 @@ export default function NavBar() {
       <ul >
                      
         <li><Nav.Link href="#projetos">Projetos</Nav.Link></li>
-        <li><Nav.Link href="#skills">Tecnologias</Nav.Link></li>
+        <li><Nav.Link href="#git">Tecnologias</Nav.Link></li>
         <li><Nav.Link href="#sobre" >Sobre mim</Nav.Link></li>
 
       </ul>

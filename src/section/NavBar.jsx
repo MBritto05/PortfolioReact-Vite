@@ -16,8 +16,8 @@ export default function NavBar() {
       </ul>
 
       <ul id="links">
-      <li> <a target="_blanck" href="https://github.com/AirtonOliveiraS"><FaGithub size={30}/></a></li>
-        <li> <a  target="_blanck"href="https://www.linkedin.com/in/airton-dos-santos-/"><FaLinkedin size={30}/></a></li>
+      <li> <a target="_blanck" href="https://github.com/MBritto05"><FaGithub size={30}/></a></li>
+        <li> <a  target="_blanck"href="https://www.linkedin.com/in/miguel-brito-silverio-a4b6262ba/"><FaLinkedin size={30}/></a></li>
         
       </ul>
 

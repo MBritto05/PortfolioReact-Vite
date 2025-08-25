@@ -6,7 +6,7 @@ import { useEffect, useState } from "react";
 function Presentation() {
 
   const [text, setText] = useState('');
-  const toRotate = ['Airton Santos!', 'Desenvolvedor Full Stack'];
+  const toRotate = ['Miguel Brito!', 'Desenvolvedor Front End'];
   const [loop, setLoop] = useState(0);
   const [isDeleting, setIsDeleting] = useState(false);
   const period = 100;
@@ -48,14 +48,14 @@ function Presentation() {
       <p>
         Sou um apaixonado por tecnologia e soluções inovadoras.
         <br />
-        Como desenvolvedor FullStack eu tenho o compromisso de
-        <br /> resolver problemas complexos e trazer resultados excepcionais
+        Como desenvolvedor Front End eu tenho o compromisso de
+        <br /> desenvolver aplicações web e trazer resultados excepcionais
         para <br />
         os negócios. estou sempre em busca de novos desafios para superar.
       </p>
       <ButtonB
         text="Saber mais"
-        link="https://www.linkedin.com/in/airton-dos-santos-/"
+        link="https://www.linkedin.com/in/miguel-brito-silverio-a4b6262ba/"
       />
       <br />
     </div>

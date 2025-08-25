@@ -7,20 +7,20 @@ export default function Footer() {
         <div>
             <div className={styles.interno}>
             <p>Meu contato:</p>
-            <p>(11) 97521-9737</p>
+            <p>(21) 97346-4104</p>
             </div>
             <div className={styles.interno}>
             <p>E-mail:</p>
-            <p>airton.saoliviera@gmail.com</p>
+            <p>mbrito0530@gmail.com</p>
             </div>
             <div className={styles.interno2}>
                 <ul>
-                    <li><a id="git" target="_blank" href="https://github.com/AirtonOliveiraS" aria-label="Link do Github"><FaGithub size={40}/></a></li>
-                    <li><a  target="_blank" href="https://www.linkedin.com/in/airton-dos-santos-/" aria-label="Link do meu linkdin"><FaLinkedin size={40}/></a></li>
+                    <li><a id="git" target="_blank" href="https://github.com/MBritto05" aria-label="Link do Github"><FaGithub size={40}/></a></li>
+                    <li><a  target="_blank" href="https://www.linkedin.com/in/miguel-brito-silverio-a4b6262ba/" aria-label="Link do meu linkdin"><FaLinkedin size={40}/></a></li>
                     <li>
                         <a 
                          target="_blank" 
-                            href="https://api.whatsapp.com/send?phone=5511975219737"
+                            href="https://api.whatsapp.com/send?phone=5521973464104"
                             
                             ><FaWhatsapp size={40}/>
                         </a>

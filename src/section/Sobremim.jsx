@@ -10,34 +10,34 @@ function Sobremim() {
       <div>
        
         <TimeLineCard
-          ano="2021"
+          ano="2024"
           lineLeft={false}
           ball={true}
           lineRight={true}
-          texto="Iniciei um estagio na area da tecnologia atuando como estagiario em engenharia de aplicação"
+          texto="Conheci o mundo da programação"
         />
-        <TimeLineCard
-          ano="2022"
-          lineLeft={true}
-          ball={true}
-          lineRight={true}
-          texto="Concluí o Bacharelado em Ciência e Tecnologia  pela Universidade Federal de São Paulo."
-        />
-
-        <TimeLineCard
-          ano="2023"
-          lineLeft={true}
-          ball={true}
-          lineRight={true}
-          texto="Iniciei meu primeiro trabalho com Desenvolvedor Full Stack jr"
-        />
-
         <TimeLineCard
           ano="2024"
           lineLeft={true}
           ball={true}
+          lineRight={true}
+          texto="Iniciei a formação em Desenvolvimento Front End pela Escola DNC"
+        />
+
+        <TimeLineCard
+          ano="2025"
+          lineLeft={true}
+          ball={true}
+          lineRight={true}
+          texto="Desenvolvi alguns projetos"
+        />
+
+        <TimeLineCard
+          ano="2025"
+          lineLeft={true}
+          ball={true}
           lineRight={false}
-          texto="Iniciei a formação em Engenharia de Software pela Escola DNC"
+          texto="Iniciei na Graduação de Análise e Desenvolvimento de Sistemas"
         />
       </div>
     </div>
